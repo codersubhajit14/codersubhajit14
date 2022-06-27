@@ -1,5 +1,5 @@
 Hi 👋 My name is Subhajit Dutta
-==============================
+===============================
 
 CS Undergrad Student
 -----------------
@@ -8,7 +8,7 @@ CS Undergrad Student
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
-   [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
+   [***You like what you see? Nominate me for GitHub Stars!***](https://stars.github.com/nominate/)
    
    Web Development made me fall in love with coding and building exciting products! I have a soft spot for technology and communities ❤️
 
